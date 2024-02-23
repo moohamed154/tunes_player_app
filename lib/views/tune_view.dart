@@ -27,7 +27,7 @@ class TuneView extends StatelessWidget {
       ),
       body: Column(
         children: [
-          
+          Column(),
         ],
       ),
     );
